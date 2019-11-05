@@ -1,22 +1,100 @@
-[
-  {"id":1,"name":"Tortoise, desert","category":"Turquoise"},
-{"id":2,"name":"Eagle, white-bellied sea","category":"Green"},
-{"id":3,"name":"Crake, african black","category":"Mauv"},
-{"id":4,"name":"Hottentot teal","category":"Goldenrod"},
-{"id":5,"name":"Parrot, hawk-headed","category":"Fuscia"},
-{"id":6,"name":"European wild cat","category":"Violet"},
-{"id":7,"name":"Snake, eastern indigo","category":"Yellow"},
-{"id":8,"name":"African ground squirrel (unidentified)","category":"Green"},
-{"id":9,"name":"Baboon, savanna","category":"Mauv"},
-{"id":10,"name":"White-necked stork","category":"Maroon"},
-{"id":11,"name":"Pampa gray fox","category":"Red"},
-{"id":12,"name":"White-winged dove","category":"Khaki"},
-{"id":13,"name":"Rat, desert kangaroo","category":"Goldenrod"},
-{"id":14,"name":"Long-billed cockatoo","category":"Aquamarine"},
-{"id":15,"name":"Phascogale, red-tailed","category":"Crimson"},
-{"id":16,"name":"Grouse, sage","category":"Yellow"},
-{"id":17,"name":"Lapwing (unidentified)","category":"Crimson"},
-{"id":18,"name":"Rhinoceros, black","category":"Aquamarine"},
-{"id":19,"name":"Tern, arctic","category":"Goldenrod"},
-{"id":20,"name":"Dove, galapagos","category":"Crimson"}
-]
+{
+  "price": [
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "JTR",
+      "service_code": "JTR18",
+      "goods_type": "Paket",
+      "currency": "IDR",
+      "price": "50000",
+      "etd_from": "3",
+      "etd_thru": "4",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "JTR250",
+      "service_code": "JTR250",
+      "goods_type": "Paket",
+      "currency": "IDR",
+      "price": "1350000",
+      "etd_from": "3",
+      "etd_thru": "4",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "JTR<150",
+      "service_code": "JTR<150",
+      "goods_type": "Paket",
+      "currency": "IDR",
+      "price": "750000",
+      "etd_from": "3",
+      "etd_thru": "4",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "JTR>250",
+      "service_code": "JTR>250",
+      "goods_type": "Paket",
+      "currency": "IDR",
+      "price": "1900000",
+      "etd_from": "3",
+      "etd_thru": "4",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "OKE",
+      "service_code": "OKE19",
+      "goods_type": "Document/Paket",
+      "currency": "IDR",
+      "price": "153000",
+      "etd_from": "2",
+      "etd_thru": "3",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "REG",
+      "service_code": "REG19",
+      "goods_type": "Document/Paket",
+      "currency": "IDR",
+      "price": "171000",
+      "etd_from": "1",
+      "etd_thru": "2",
+      "times": "D"
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "SPS",
+      "service_code": "SPS19",
+      "goods_type": "Document/Paket",
+      "currency": "IDR",
+      "price": "875000",
+      "etd_from": null,
+      "etd_thru": null,
+      "times": null
+    },
+    {
+      "origin_name": "JAKARTA",
+      "destination_name": "SURABAYA",
+      "service_display": "YES",
+      "service_code": "YES19",
+      "goods_type": "Document/Paket",
+      "currency": "IDR",
+      "price": "333000",
+      "etd_from": "1",
+      "etd_thru": "1",
+      "times": "D"
+    }
+  ]
+}
