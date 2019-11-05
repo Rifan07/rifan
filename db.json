@@ -1,0 +1,25 @@
+{
+"products:"
+[
+{"id":1,"name":"Tortoise, desert","category":"Turquoise"},
+{"id":2,"name":"Eagle, white-bellied sea","category":"Green"},
+{"id":3,"name":"Crake, african black","category":"Mauv"},
+{"id":4,"name":"Hottentot teal","category":"Goldenrod"},
+{"id":5,"name":"Parrot, hawk-headed","category":"Fuscia"},
+{"id":6,"name":"European wild cat","category":"Violet"},
+{"id":7,"name":"Snake, eastern indigo","category":"Yellow"},
+{"id":8,"name":"African ground squirrel (unidentified)","category":"Green"},
+{"id":9,"name":"Baboon, savanna","category":"Mauv"},
+{"id":10,"name":"White-necked stork","category":"Maroon"},
+{"id":11,"name":"Pampa gray fox","category":"Red"},
+{"id":12,"name":"White-winged dove","category":"Khaki"},
+{"id":13,"name":"Rat, desert kangaroo","category":"Goldenrod"},
+{"id":14,"name":"Long-billed cockatoo","category":"Aquamarine"},
+{"id":15,"name":"Phascogale, red-tailed","category":"Crimson"},
+{"id":16,"name":"Grouse, sage","category":"Yellow"},
+{"id":17,"name":"Lapwing (unidentified)","category":"Crimson"},
+{"id":18,"name":"Rhinoceros, black","category":"Aquamarine"},
+{"id":19,"name":"Tern, arctic","category":"Goldenrod"},
+{"id":20,"name":"Dove, galapagos","category":"Crimson"}
+]
+}
